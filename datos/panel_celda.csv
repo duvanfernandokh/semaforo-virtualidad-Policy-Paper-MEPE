@@ -1,0 +1,100 @@
+cohorte,seguimiento,area,modalidad,virtual,programas,graduados,cotizantes,tasa
+2018,2019,Administracion De Empresas Y Derecho,Presencial,0,1364,111787,60730,0.543265
+2018,2019,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Presencial,0,168,8046,3148,0.39125
+2018,2019,Arte Y Humanidades,Presencial,0,439,14206,6025,0.424117
+2018,2019,"Ciencias Naturales, Matematicas Y Estadistica",Presencial,0,176,8349,4089,0.489759
+2018,2019,"Ciencias Sociales, Periodismo E Informacion",Presencial,0,484,31737,14525,0.457668
+2018,2019,Educacion,Presencial,0,409,15716,8112,0.516162
+2018,2019,"Ingenieria, Industria Y Construccion",Presencial,0,1219,74921,44627,0.595654
+2018,2019,Salud Y Bienestar,Presencial,0,341,20714,11619,0.560925
+2018,2019,Servicios,Presencial,0,126,15931,5821,0.365388
+2018,2019,Tecnologias De La Informacion Y La Comunicacion (Tic),Presencial,0,253,11900,6713,0.564118
+2018,2019,Administracion De Empresas Y Derecho,Virtual,1,127,9244,5616,0.607529
+2018,2019,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Virtual,1,8,30,10,0.333333
+2018,2019,Arte Y Humanidades,Virtual,1,12,366,135,0.368852
+2018,2019,"Ciencias Naturales, Matematicas Y Estadistica",Virtual,1,4,375,205,0.546667
+2018,2019,"Ciencias Sociales, Periodismo E Informacion",Virtual,1,17,1286,721,0.560653
+2018,2019,Educacion,Virtual,1,13,2593,1632,0.629387
+2018,2019,"Ingenieria, Industria Y Construccion",Virtual,1,28,1625,972,0.598154
+2018,2019,Servicios,Virtual,1,8,102,53,0.519608
+2018,2019,Tecnologias De La Informacion Y La Comunicacion (Tic),Virtual,1,16,734,356,0.485014
+2019,2020,Administracion De Empresas Y Derecho,Presencial,0,1398,118022,65278,0.5531
+2019,2020,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Presencial,0,177,8512,3177,0.373238
+2019,2020,Arte Y Humanidades,Presencial,0,449,14994,6293,0.419701
+2019,2020,"Ciencias Naturales, Matematicas Y Estadistica",Presencial,0,179,8259,3746,0.453566
+2019,2020,"Ciencias Sociales, Periodismo E Informacion",Presencial,0,503,33091,13987,0.422683
+2019,2020,Educacion,Presencial,0,421,15922,7235,0.454403
+2019,2020,"Ingenieria, Industria Y Construccion",Presencial,0,1232,79733,46014,0.577101
+2019,2020,Salud Y Bienestar,Presencial,0,342,21670,12883,0.594509
+2019,2020,Servicios,Presencial,0,136,19129,6384,0.333734
+2019,2020,Tecnologias De La Informacion Y La Comunicacion (Tic),Presencial,0,257,12283,7105,0.578442
+2019,2020,Administracion De Empresas Y Derecho,Virtual,1,128,12113,8088,0.667712
+2019,2020,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Virtual,1,6,48,18,0.375
+2019,2020,Arte Y Humanidades,Virtual,1,11,465,163,0.350538
+2019,2020,"Ciencias Naturales, Matematicas Y Estadistica",Virtual,1,4,370,199,0.537838
+2019,2020,"Ciencias Sociales, Periodismo E Informacion",Virtual,1,20,1688,957,0.566943
+2019,2020,Educacion,Virtual,1,15,2812,1739,0.618421
+2019,2020,"Ingenieria, Industria Y Construccion",Virtual,1,28,2731,1808,0.662029
+2019,2020,Salud Y Bienestar,Virtual,1,1,11,8,0.727273
+2019,2020,Servicios,Virtual,1,10,119,67,0.563025
+2019,2020,Tecnologias De La Informacion Y La Comunicacion (Tic),Virtual,1,17,1086,629,0.57919
+2020,2021,Administracion De Empresas Y Derecho,Presencial,0,1408,92034,54651,0.593813
+2020,2021,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Presencial,0,185,6715,2824,0.420551
+2020,2021,Arte Y Humanidades,Presencial,0,451,16847,5446,0.323262
+2020,2021,"Ciencias Naturales, Matematicas Y Estadistica",Presencial,0,200,6178,3063,0.495792
+2020,2021,"Ciencias Sociales, Periodismo E Informacion",Presencial,0,487,32320,14881,0.460427
+2020,2021,Educacion,Presencial,0,426,15039,7062,0.469579
+2020,2021,"Ingenieria, Industria Y Construccion",Presencial,0,1218,66426,40271,0.606254
+2020,2021,Salud Y Bienestar,Presencial,0,341,20734,12594,0.607408
+2020,2021,Servicios,Presencial,0,138,12571,4448,0.35383
+2020,2021,Tecnologias De La Informacion Y La Comunicacion (Tic),Presencial,0,248,9818,6120,0.623345
+2020,2021,Administracion De Empresas Y Derecho,Virtual,1,139,15553,10538,0.677554
+2020,2021,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Virtual,1,7,32,11,0.34375
+2020,2021,Arte Y Humanidades,Virtual,1,15,147,71,0.482993
+2020,2021,"Ciencias Naturales, Matematicas Y Estadistica",Virtual,1,3,253,132,0.521739
+2020,2021,"Ciencias Sociales, Periodismo E Informacion",Virtual,1,19,1866,981,0.525723
+2020,2021,Educacion,Virtual,1,17,2148,1241,0.577747
+2020,2021,"Ingenieria, Industria Y Construccion",Virtual,1,30,3030,2098,0.692409
+2020,2021,Salud Y Bienestar,Virtual,1,1,40,26,0.65
+2020,2021,Servicios,Virtual,1,11,147,87,0.591837
+2020,2021,Tecnologias De La Informacion Y La Comunicacion (Tic),Virtual,1,22,1518,828,0.545455
+2021,2022,Administracion De Empresas Y Derecho,Presencial,0,1515,117910,72193,0.612272
+2021,2022,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Presencial,0,232,8218,3911,0.475907
+2021,2022,Arte Y Humanidades,Presencial,0,462,12967,6256,0.482455
+2021,2022,"Ciencias Naturales, Matematicas Y Estadistica",Presencial,0,218,7880,4299,0.545558
+2021,2022,"Ciencias Sociales, Periodismo E Informacion",Presencial,0,516,38022,19244,0.506128
+2021,2022,Educacion,Presencial,0,465,16499,8372,0.507425
+2021,2022,"Ingenieria, Industria Y Construccion",Presencial,0,1315,77525,50930,0.656949
+2021,2022,Salud Y Bienestar,Presencial,0,354,23758,14512,0.610826
+2021,2022,Servicios,Presencial,0,178,17301,5626,0.325184
+2021,2022,Tecnologias De La Informacion Y La Comunicacion (Tic),Presencial,0,284,13701,9142,0.667251
+2021,2022,Administracion De Empresas Y Derecho,Virtual,1,172,19970,13814,0.691738
+2021,2022,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Virtual,1,6,38,21,0.552632
+2021,2022,Arte Y Humanidades,Virtual,1,17,209,99,0.473684
+2021,2022,"Ciencias Naturales, Matematicas Y Estadistica",Virtual,1,3,281,154,0.548043
+2021,2022,"Ciencias Sociales, Periodismo E Informacion",Virtual,1,22,2524,1292,0.511886
+2021,2022,Educacion,Virtual,1,17,2456,1504,0.612378
+2021,2022,"Ingenieria, Industria Y Construccion",Virtual,1,34,4451,3115,0.699843
+2021,2022,Salud Y Bienestar,Virtual,1,1,151,98,0.649007
+2021,2022,Servicios,Virtual,1,11,175,99,0.565714
+2021,2022,Tecnologias De La Informacion Y La Comunicacion (Tic),Virtual,1,23,1804,1051,0.582594
+2022,2023,Administracion De Empresas Y Derecho,Presencial,0,1629,119113,72033,0.604745
+2022,2023,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Presencial,0,258,9206,4313,0.468499
+2022,2023,Arte Y Humanidades,Presencial,0,479,13336,6552,0.491302
+2022,2023,"Ciencias Naturales, Matematicas Y Estadistica",Presencial,0,217,7599,4252,0.559547
+2022,2023,"Ciencias Sociales, Periodismo E Informacion",Presencial,0,539,36944,18258,0.494207
+2022,2023,Educacion,Presencial,0,502,17165,8839,0.514943
+2022,2023,"Ingenieria, Industria Y Construccion",Presencial,0,1390,75972,49856,0.656242
+2022,2023,Salud Y Bienestar,Presencial,0,357,24005,14497,0.603916
+2022,2023,Servicios,Presencial,0,172,20967,5010,0.238947
+2022,2023,Tecnologias De La Informacion Y La Comunicacion (Tic),Presencial,0,303,13706,8931,0.651612
+2022,2023,Administracion De Empresas Y Derecho,Virtual,1,185,22664,15679,0.691802
+2022,2023,"Agropecuario, Silvicultura, Pesca Y Veterinaria",Virtual,1,6,53,24,0.45283
+2022,2023,Arte Y Humanidades,Virtual,1,20,371,175,0.471698
+2022,2023,"Ciencias Naturales, Matematicas Y Estadistica",Virtual,1,3,288,139,0.482639
+2022,2023,"Ciencias Sociales, Periodismo E Informacion",Virtual,1,25,4642,2040,0.439466
+2022,2023,Educacion,Virtual,1,18,2307,1401,0.607282
+2022,2023,"Ingenieria, Industria Y Construccion",Virtual,1,38,5724,4052,0.707897
+2022,2023,Salud Y Bienestar,Virtual,1,1,163,106,0.650307
+2022,2023,Servicios,Virtual,1,13,290,184,0.634483
+2022,2023,Tecnologias De La Informacion Y La Comunicacion (Tic),Virtual,1,27,2680,1620,0.604478

@@ -1,0 +1,1 @@
+Las salidas generadas por los guiones se escriben en esta carpeta.
